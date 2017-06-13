@@ -1,2 +1,3 @@
-# Hello-World
-Source of ideas and discussions etc.
+Le Koj here,  
+Creative thinker and a python lover
+...tally-ho...
